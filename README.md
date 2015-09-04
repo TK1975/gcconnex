@@ -1,5 +1,5 @@
 <h1>GCconnex</h1>
-GCconnex is a project forked from Elgg by the federal government of Canada.
+GCconnex is a project forked from Elgg by the federal government of Canada. It is an internal collaboration and professional networking platform.
 
 For more information about Elgg visit http://elgg.org/ or see the original Elgg
 README below.
